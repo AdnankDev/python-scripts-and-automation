@@ -40,7 +40,7 @@ Each project has its own folder with:
 ## 🚀 Getting Started  
 Clone the repo:  
 ```bash
-git clone https://github.com/<your-username>/python-automation-scripts-projects.git
+git clone https://github.com/adnankDev/python-automation-scripts-projects.git
 ````
 
 Navigate into a project folder and run the script:
