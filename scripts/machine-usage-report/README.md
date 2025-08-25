@@ -56,11 +56,18 @@ Machine-3: (no users)
 
 ---
 
-## 📎 How to Run  
-1. Clone the repo:  
+
+
+---
+
+## 📎 How to Run
+
+1. Clone the repository:
+
    ```bash
    git clone https://github.com/adnankDev/machine-usage-report.git
-````
+   cd machine-usage-report
+   ```
 
 2. Run the script:
 
@@ -72,7 +79,12 @@ Machine-3: (no users)
 
 ## ✨ About This Project
 
-This project was created as part of my **Python learning journey** to practice handling data, sorting, and reporting.
-It’s a small but powerful step toward writing useful automation scripts.
+This project was built during my **Python learning journey** to practice:
 
-```
+* Data handling
+* Sorting and filtering
+* Generating structured reports
+
+It’s a simple yet practical script that demonstrates how Python can automate everyday tasks.
+
+---
