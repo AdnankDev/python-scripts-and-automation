@@ -83,7 +83,7 @@ Machine-3: (no users)
 I’m learning and practicing **Python development & automation** by solving real-world problems.
 This repo will keep growing as I explore new projects. 🚀
 
-Feel free to ⭐ the repo if you find it useful, and connect with me on [LinkedIn](https:/www.linkedin.com/in/adnanktech).
+Feel free to ⭐ the repo if you find it useful, and connect with me on [LinkedIn](https://www.linkedin.com/in/adnanktech).
 
 ```
 
