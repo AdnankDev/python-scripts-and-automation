@@ -47,12 +47,12 @@ class Event:
 
 # Sample event data (normally would come from system logs)
 events = [
-    Event('2020-01-21 12:45:46', 'login', 'myworkstation.local', 'jordan'),
-    Event('2020-01-22 15:53:42', 'logout', 'webserver.local', 'jordan'),
-    Event('2020-01-21 18:53:21', 'login', 'webserver.local', 'lane'),
-    Event('2020-01-22 10:25:34', 'logout', 'myworkstation.local', 'jordan'),
-    Event('2020-01-21 08:20:01', 'login', 'webserver.local', 'jordan'),
-    Event('2020-01-23 11:24:35', 'login', 'mailserver.local', 'chris'),
+    Event('2025-01-21 12:45:46', 'login', 'myworkstation.local', 'jordan'),
+    Event('2025-01-22 15:53:42', 'logout', 'webserver.local', 'jordan'),
+    Event('2025-01-21 18:53:21', 'login', 'webserver.local', 'lane'),
+    Event('2025-01-22 10:25:34', 'logout', 'myworkstation.local', 'jordan'),
+    Event('2025-01-21 08:20:01', 'login', 'webserver.local', 'jordan'),
+    Event('2025-01-23 11:24:35', 'login', 'mailserver.local', 'chris'),
 ]
 
 # Process events to find current users
