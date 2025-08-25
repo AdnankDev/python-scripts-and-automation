@@ -20,8 +20,8 @@ This repository documents my **learning journey** and showcases practical soluti
 python-automation-scripts-projects/
 │
 ├──machine-usage-report/
-│   ├── machine\_report.py
-│   ├── sample\_events.py
+│   ├── machine\machine_usage_report.py
+│   
 │   └── README.md
 │
 ├
